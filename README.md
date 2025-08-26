@@ -17,10 +17,11 @@ Go into the project directory
 Install the dependencies
 
 ```bash
-  yarn install
+  npm install
 ```
 
 Run the app
+
 ```bash
-  yarn dev
+  npm run dev
 ```

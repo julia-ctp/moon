@@ -1,9 +1,5 @@
 function App() {
-  return (
-    <>
-      :P
-    </>
-  )
+  return <section>:D ti amu</section>;
 }
 
-export default App
+export default App;
